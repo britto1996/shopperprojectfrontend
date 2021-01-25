@@ -9,7 +9,7 @@ function Home() {
        
         <div>
         <Base title="HomePage" 
-        description="Don't try to control my vision">
+        description="Visionary sometime fails">
         
         </Base>  
         </div>
