@@ -8,8 +8,8 @@ function Home() {
     return (
        
         <div>
-        <Base title="HomePage" 
-        description="Visionary sometime fails">
+        <Base title="B COMMERCE" 
+        description="Visionary have more problems">
         
         </Base>  
         </div>
